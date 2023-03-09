@@ -1,0 +1,2 @@
+rootProject.name = "Truek_Shop_app"
+include ':app'
